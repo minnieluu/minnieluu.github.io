@@ -1,6 +1,23 @@
 img {
-    width: 200px;
+    width: 800px; }
 body {
     text-align: center;
     font-family: "Comic Sans MS";
+    
 } 
+body {
+    background-image: url("http://buzzsharer.com/wp-content/uploads/2016/04/funny-corgi-meme-snow-face.jpg");
+}
+
+body 
+{
+    color: white;
+}
+
+h1 {
+    color: #00ff00;
+}
+
+p {
+    color: rgb(0,0,255);
+}
